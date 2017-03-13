@@ -1,0 +1,1 @@
+Its a MeanStack(MongoDB,Express,Angularjs,Nodejs) application.
